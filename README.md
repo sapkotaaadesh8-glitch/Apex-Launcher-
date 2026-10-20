@@ -1,7 +1,5 @@
-Apex Launcher
+# Apex Launcher
 
-"Downloads" (https://img.shields.io/badge/Downloads-Coming%20Soon-blue)
-"Platform" (https://img.shields.io/badge/Platform-Android-green)
 
 Apex Launcher is an Android launcher project designed to provide a modern and customizable experience for Minecraft: Java Edition on Android devices.
 
