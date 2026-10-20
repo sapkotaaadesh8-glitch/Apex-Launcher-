@@ -45,3 +45,5 @@ Refer to the repository's "LICENSE" file for licensing terms and conditions. Thi
 Disclaimer
 
 Apex Launcher is an independent project and is not affiliated with, endorsed by, or officially connected to Mojang Studios or Microsoft.
+
+created by :- Trchip Gamerz & team
