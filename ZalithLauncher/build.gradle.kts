@@ -43,7 +43,7 @@ fun getKeyFromLocal(envKey: String, fileName: String? = null, default: String? =
 android {
     namespace = zalithPackageName
     compileSdk {
-        version = release(37) {
+        version = release(1) {
             minorApiLevel = 2
         }
     }
